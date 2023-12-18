@@ -15,10 +15,7 @@
 <br />
 <br />
 Languages and Tools:
-
-[<img src="https://img.icons8.com/color/25/000000/golang.png" alt="golang" width="30" height="30" />][golang]
 [<img src="https://img.icons8.com/color/25/000000/python.png" alt="python" width="30" height="30" />][python]
-[<img src="https://cdn.iconscout.com/icon/free/png-256/ruby-3629029-3030386.png" alt="ruby" width="30" height="30" />][ruby]
 [<img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=p6MWQNHwEtnnx0MWJ-i7vCMt-sZmoBf6h-7XmdSs5RE.svg" alt="net" width="30" height="30" />][net]
 [<img src="https://img.icons8.com/color/25/000000/react-native.png" alt="react" width="30" height="30" />][react]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" />][angular]
@@ -26,14 +23,12 @@ Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />][javascript]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />][typescript]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="30" height="30" />][aws]
-[<img src="https://img.icons8.com/color/25/000000/firebase.png" alt="firebase" width="30" height="30" />][firebase]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />][docker]
 [<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" />][kubernetes]
 [<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo" width="30" height="30" />][mongo]
 [<img src="https://img.icons8.com/color/25/000000/redis.png" alt="Redis" width="30" height="30" />][redis]
 [<img src="https://img.icons8.com/color/25/000000/postgreesql.png" alt="Postgresql" width="30" height="30" />][postgresql]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30" />][vscode]
-[<img src="https://img.icons8.com/doodle/25/000000/console--v2.png" alt="Bash" width="30" height="30" />][bash]
 
 <br />
 
