@@ -5,7 +5,7 @@
 
 ## I'm a Software Developer
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m interested in Backend Development and Serverless
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
