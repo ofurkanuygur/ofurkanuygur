@@ -11,8 +11,6 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br />
-<br />
 Languages and Tools:
 <br />
 [<img src="https://img.icons8.com/color/25/000000/python.png" alt="python" width="30" height="30" />][python]
