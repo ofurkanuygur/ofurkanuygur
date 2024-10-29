@@ -10,8 +10,7 @@
 - 🥅 2024 Goals: Contribute more to Open Source projects
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fecel4tifhiz7ql4q5l2gjmat4&cover_image=false&theme=default&show_offline=false&background_color=d23014&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31fecel4tifhiz7ql4q5l2gjmat4&redirect=true)
+
 <br />
 <br />
 Languages and Tools:
