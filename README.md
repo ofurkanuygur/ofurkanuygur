@@ -17,7 +17,6 @@
 Languages and Tools:
 <br />
 [<img src="https://img.icons8.com/color/25/000000/python.png" alt="python" width="30" height="30" />][python]
-[<img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dot-net-core.svg?v=p6MWQNHwEtnnx0MWJ-i7vCMt-sZmoBf6h-7XmdSs5RE.svg" alt="net" width="30" height="30" />][net]
 [<img src="https://img.icons8.com/color/25/000000/react-native.png" alt="react" width="30" height="30" />][react]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" />][angular]
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="30" height="30" />][node]
@@ -39,7 +38,6 @@ Languages and Tools:
 
 </details>
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![pv](https://pageview.vercel.app/?github_user=ofurkanuygur)
