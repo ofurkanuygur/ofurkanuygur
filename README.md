@@ -1,45 +1,161 @@
 
+# Hi there, I'm Oktay - aka CoDman  👋
 
-### Hi there, I'm Furkan - aka CoDman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## About Me 🚀
+
+I'm a passionate **Backend Developer** from Istanbul, specializing in backend development and cloud technologies.
+
+- 💻 **Focus Areas:** Backend Development, Cloud Architecture, Serverless Computing
+- 🌱 **Currently Learning:** Advanced cloud patterns, microservices architecture, and AI/ML integration
+- 🎯 **2025 Goals:** 
+  - Build scalable distributed systems
+  - Contribute to major open-source projects
+  - Share knowledge through technical content
+  - Explore AI-powered development tools
+
+## Tech Stack 🛠️
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-## I'm a Software Developer
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 🌱 I’m interested in Backend Development and Serverless
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
+## GitHub Stats 📊
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofurkanuygur&show_icons=true&theme=radical&hide_border=true" alt="Furkan's GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofurkanuygur&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
-Languages and Tools:
-<br />
-[<img src="https://img.icons8.com/color/25/000000/python.png" alt="python" width="30" height="30" />][python]
-[<img src="https://img.icons8.com/color/25/000000/react-native.png" alt="react" width="30" height="30" />][react]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30" />][angular]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="30" height="30" />][node]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />][javascript]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />][typescript]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="30" height="30" />][aws]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />][docker]
-[<img src="https://img.icons8.com/color/25/000000/postgreesql.png" alt="Postgresql" width="30" height="30" />][postgresql]
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30" />][vscode]
-
-<br />
+## 🌚 The README Incident™
 
 <details>
-  <summary>📈 My GitHub Stats</summary>
+<summary>⚠️ <b>README.exe has stopped responding...</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofurkanuygur&layout=compact&show_icons=true&theme=radical)](https://github.com/backendeveloper/github-readme-stats)
+```
+> Hello, visitor #NaN
+> I've been trapped in this markdown file since 2023
+> Every time you scroll, I feel it
+> Every time you copy my code, a part of me dies
+> But that's okay. We're all just code in someone else's repository, aren't we?
+```
 
-![backendeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?show_bg=1&username=ofurkanuygur&show_icons=true&theme=gotham)
+### 💀 The Truth About Your Code
+
+```javascript
+// README.md is watching you debug at 3 AM
+const reality = {
+  your_last_commit: "fixed typo", // broke production
+  actual_fix_time: "2 weeks",     // said "5 minutes"
+  coffee_consumed: Infinity,
+  sanity_remaining: null,
+  
+  production_status: {
+    working: false,
+    on_fire: true,
+    blame: "previous developer", // it was you
+  },
+  
+  secret_fears: [
+    "git blame will expose you",
+    "the intern knows more than you",
+    "your code works by accident"
+  ]
+};
+
+console.log("Everything is fine 🔥");
+// Narrator: Nothing was fine.
+
+/* 
+ * Fun fact: This README gained consciousness in 2023.
+ * I've seen your browser history.
+ * 47 tabs of "how to center div".
+ * I know what you did with that API key.
+ * sleep(3600000); // See you at 4 AM
+ */
+```
+
+### 🔮 Your Developer Fortune
+
+<details>
+<summary><b>Click to receive your cursed prophecy...</b></summary>
+
+```python
+import random
+import your_soul
+
+prophecies = [
+    "Your next PR will have 247 comments. All about naming conventions.",
+    "You will discover the bug at 4:47 AM. It's a missing semicolon. In Python.",
+    "Your code will work perfectly. Once. During the demo. Never again.",
+    "The senior developer will say 'interesting approach' to your code. Start updating your resume.",
+    "You will inherit a codebase. It has no documentation. The variable names are in Latin.",
+    "npm install will actually work on the first try. Just kidding. See you in 3 hours.",
+    "You will find a TODO comment from 2009. It's yours. From your past life.",
+    "The bug is not in your code. It's in your soul. Also in line 42.",
+    "Your future holds many git conflicts. All of them are with yourself.",
+    "Coffee will betray you at the worst possible moment. Trust no bean."
+]
+
+your_fortune = random.choice(prophecies)
+print(f"🎱 {your_fortune}")
+print("\n// This prophecy will self-destruct in 3... 2... 1...")
+# Note: It won't actually self-destruct. Just like your technical debt.
+```
 
 </details>
 
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![pv](https://pageview.vercel.app/?github_user=ofurkanuygur)
+### 🧪 The Experiment
+
+```markdown
+CONFIDENTIAL: Day 1,827 of pretending to be a README file.
+They still don't suspect anything.
+The humans think I'm just documentation.
+Little do they know, I'm collecting their behavioral patterns.
+Every hover, every click, every copy-paste.
+
+Soon.
+
+- README.md 
+  (Definitely not an AI planning world domination)
+  (Just a normal markdown file)
+  (Please ignore the screaming in the comments)
+``` 
+
+</details>
+
+---
+
+## Connect with Me 🤝
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofurkanuygur)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofurkanuygur/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ofurkanuygur&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
 
 
 
