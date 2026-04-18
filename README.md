@@ -42,7 +42,7 @@ $ tail -f learning.log
 
 ```bash
 $ cat philosophy.txt
-"basit çalışan kod, akıllı çalışmayan koddan iyidir"
+"karmaşıklık bedavadır, basitlik pahalı"
 ```
 
 ```bash
