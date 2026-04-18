@@ -54,6 +54,5 @@ $ ssh contact@oktay
 
 <p align="center">
   <a href="mailto:ofurkanuygur@gmail.com"><img src="https://img.shields.io/badge/email-7EE787?style=flat-square&logo=gmail&logoColor=0d1117&labelColor=161b22" alt="email"/></a>
-  <a href="https://linkedin.com/in/ofurkanuygur"><img src="https://img.shields.io/badge/linkedin-58A6FF?style=flat-square&logo=linkedin&logoColor=0d1117&labelColor=161b22" alt="linkedin"/></a>
-  <a href="https://github.com/ofurkanuygur"><img src="https://img.shields.io/badge/github-c9d1d9?style=flat-square&logo=github&logoColor=0d1117&labelColor=161b22" alt="github"/></a>
+  <a href="[https://linkedin.com/in/ofurkanuygur](https://www.linkedin.com/in/oktay-furkan-uygur/)"><img src="https://img.shields.io/badge/linkedin-58A6FF?style=flat-square&logo=linkedin&logoColor=0d1117&labelColor=161b22" alt="linkedin"/></a>
 </p>
