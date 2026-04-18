@@ -42,7 +42,7 @@ $ tail -f learning.log
 
 ```bash
 $ cat philosophy.txt
-"karmaşıklık bedavadır, basitlik pahalı"
+"complexity is free; simplicity is expensive"
 ```
 
 ```bash
